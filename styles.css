@@ -345,12 +345,31 @@ Grocery List
 }
 
 
-.datos{
-  text-align: center;
- 
- 
+
+
+.datos-general{
+   padding-right: 10rem;
+   display: flex;
+}
+
+.datos1 {
+  text-align: left;
+  padding-left: 25rem; 
   line-height: .7em ;
   white-space: nowrap;
   white-space: pre-wrap;
+  padding-top: 5%;
   
+}
+
+.datos2{
+  text-align: right;
+  padding-right: 1rem;
+  line-height: .7em ;
+  white-space: nowrap;
+  white-space: pre-wrap;
+  padding-block: 1rem;
+  padding-left: 15rem;
+  padding-top: 5%;
+ 
 }

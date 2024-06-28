@@ -1,5 +1,5 @@
-# web-page
-# web-page
+# tienda online
+# tienda online
 
 ####  Pagina web sobre un tienda online , colocas un articulo y crea una lista de productos que se puede manipular 
 
